@@ -20,8 +20,7 @@ export const TouchableCardContainer = ({
       borderColor: theme.lightGray,
       borderBottomWidth: 2,
       borderRadius: 8,
-      borderWidth: 1,
-      marginBottom: 18,
+
       flex: 1,
       ...style,
     }}
